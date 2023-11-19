@@ -13,7 +13,9 @@ systemctl --user daemon-reload
 systemctl --user enable --now {ipfs,i2pd,syncthing}.services
 ```
 
-Add a new Firefox/Librewolf profile to configure I2Pd proxy.
+Add a new Firefox/Librewolf profile to [configure I2Pd proxy](https://geti2p.net/en/about/browser-config#firefox).
+
+Install [IPFS Companion](https://addons.mozilla.org/en-US/firefox/addon/ipfs-companion/) to avoid headaches accessing IPFS links.
 
 ## Services
 
