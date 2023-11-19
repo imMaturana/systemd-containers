@@ -13,7 +13,7 @@ systemctl --user daemon-reload
 systemctl --user enable --now {ipfs,i2pd,syncthing}.services
 ```
 
-Don't forget to configure your browser proxy.
+Add a new Firefox/Librewolf profile to configure I2Pd proxy.
 
 ## Services
 
