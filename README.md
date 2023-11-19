@@ -17,12 +17,11 @@ Don't forget to configure your browser proxy.
 
 ## Services
 
-- [I2P]()d
-- [IPFS]()
-- [Syncthing]()
+- [I2Pd](https://i2pd.website)
+- [IPFS](https://ipfs.tech)
+- [Syncthing](https://syncthing.net)
 
 
 ## Where is Tor?
 
-I don't recommend you to use a Tor proxy, the Tor Browser exists for a reason, use it instead
-
+I don't recommend you to use a Tor proxy, [Tor Browser](https://www.torproject.org/download/) exists for a reason.
